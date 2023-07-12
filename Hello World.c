@@ -6,8 +6,8 @@ int main()
     printf("Hello World\n");
 
 
-    printf("Nethmina Madagedara\n");
-    printf("19\n");
+    printf("ANJANA HERATH\n");
+    printf("20\n");
     printf("St Mary's College\n");
 
     //using printf in every line
